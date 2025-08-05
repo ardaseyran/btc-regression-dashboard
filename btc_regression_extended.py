@@ -1,5 +1,4 @@
 # btc_regression_extended.py
-# Proje 3’ü geliştiriyoruz: ek modeller + ek göstergeler + TimeSeriesSplit CV + GridSearchCV
 
 import numpy as np
 import pandas as pd
