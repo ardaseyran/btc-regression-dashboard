@@ -1,5 +1,4 @@
 # btc_regression_tuning.py
-# Proje 3’ü iyileştirme: Ridge / Lasso / ElasticNet için TimeSeriesSplit + GridSearchCV
 
 import numpy as np
 import pandas as pd
